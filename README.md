@@ -1,0 +1,3 @@
+# duicoin-core
+
+Project overview.
